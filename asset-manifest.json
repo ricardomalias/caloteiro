@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caloteiro/static/css/main.34112e4c.chunk.css",
+    "main.js": "/caloteiro/static/js/main.ed3d9d51.chunk.js",
+    "main.js.map": "/caloteiro/static/js/main.ed3d9d51.chunk.js.map",
+    "runtime~main.js": "/caloteiro/static/js/runtime~main.041b952d.js",
+    "runtime~main.js.map": "/caloteiro/static/js/runtime~main.041b952d.js.map",
+    "static/js/2.b9c9f3fd.chunk.js": "/caloteiro/static/js/2.b9c9f3fd.chunk.js",
+    "static/js/2.b9c9f3fd.chunk.js.map": "/caloteiro/static/js/2.b9c9f3fd.chunk.js.map",
+    "index.html": "/caloteiro/index.html",
+    "precache-manifest.79f3e955891efe79f98ef25f8942f4ac.js": "/caloteiro/precache-manifest.79f3e955891efe79f98ef25f8942f4ac.js",
+    "service-worker.js": "/caloteiro/service-worker.js",
+    "static/css/main.34112e4c.chunk.css.map": "/caloteiro/static/css/main.34112e4c.chunk.css.map"
+  }
+}
