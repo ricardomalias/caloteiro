@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cf963a75e5ff2914b493257ea35e937",
+    "revision": "70847421707be420998a4582fb5d40c1",
     "url": "/caloteiro/index.html"
   },
   {
